@@ -1,0 +1,13 @@
+[package]
+name = "nestedtext"
+version = "0.1.0"
+edition = "2021"
+authors = ["Bob <bob22.zhang@gmail.com>"]
+license = "MIT"
+description = "Rust implementation of NestedText (supports NestedText v3)."
+documentation = "https://docs.rs/nestedtext"
+repository = "https://github.com/bob22z/nestedtext"
+keywords = ["nestedtext"]
+
+[dependencies]
+nom = "7"
